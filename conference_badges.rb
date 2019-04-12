@@ -1,9 +1,17 @@
 # Write your code here.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> b3e32884940d9a1498d53e9d3cbf9d2bcd07f502
+>>>>>>> c18fcd96923f8801dfe8b1cdfdb7f68acf98a974
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
 
 
+<<<<<<< HEAD
 def batch_badge_creator(badge)
   new_badge = []
   badge.each do |name|
@@ -31,4 +39,12 @@ def printer(badge)
     puts id 
   end
 end 
+<<<<<<< HEAD
 
+=======
+=======
+def batch_badge_creator
+  
+end
+>>>>>>> b3e32884940d9a1498d53e9d3cbf9d2bcd07f502
+>>>>>>> c18fcd96923f8801dfe8b1cdfdb7f68acf98a974
